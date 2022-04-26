@@ -1,1 +1,1 @@
-# calculadora-funcional
+ Una calculadora creada con Tkinter. 
